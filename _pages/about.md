@@ -11,11 +11,12 @@ redirect_from:
 
 # About Me
 
-* I'm currently pursuing Bachelors in Computer Science at [Shahjalal University of Science and Technology](https://www.sust.edu/). [[CV](https://rajoy99.github.io/academic/files/joyCV.pdf)] 
+* I'm currently pursuing Bachelors in Computer Science at [Shahjalal University of Science and Technology](https://www.sust.edu/). 
+
+
+[[CV](https://rajoy99.github.io/academic/files/joyCV.pdf)] 
 
 * My research interest lies in the Machine learning explainability, Reinforcement learning, Time Series Analysis and Generative Models. Quite recently, I have been working on my undergraduate thesis on Reinforcement learning for time series anomaly detection.  
-
-
 
 
 My areas of interest are:
@@ -26,7 +27,5 @@ My areas of interest are:
 <li>Reinforcement Learning </li>
 </ul>
 
-[[CV](https://rajoy99.github.io/academic/files/joyCV.pdf)] 
-![Image of my CV](files/cvimage.png)
 
 
