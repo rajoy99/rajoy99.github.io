@@ -50,13 +50,14 @@ $type-size-8                : 0.625em;  // ~10px
 $gray                       : #7a8288;
 $black                      : black;
 $white                      : white;
+$ash                        : rgb(224, 223, 223)
 $dark-gray                  : mix(#000, $gray, 40%);
 $darker-gray                : mix(#000, $gray, 60%);
 $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
-$body-color                 : rgba(177, 196, 192, 0.545);
-$background-color           : rgba(177, 196, 192, 0.545);
+$body-color                 : $ash;
+$background-color           : $ash;
 $code-background-color      : $black;
 $code-background-color-dark : $black;
 $text-color                 : $black;
