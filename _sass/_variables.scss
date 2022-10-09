@@ -56,10 +56,10 @@ $light-gray                 : mix(#fff, $gray, 50%);
 $lighter-gray               : mix(#fff, $gray, 90%);
 
 $body-color                 : rgb(209, 224, 193);
-$background-color           : rgb(21, 43, 32);
+$background-color           : rgba(177, 196, 192, 0.545);
 $code-background-color      : #fafafa;
-$code-background-color-dark : $light-gray;
-$text-color                 : $white;
+$code-background-color-dark : $black;
+$text-color                 : $black;
 $border-color               : $white;
 
 $primary-color              : #7a8288;
