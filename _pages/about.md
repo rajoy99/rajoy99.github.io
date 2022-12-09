@@ -17,15 +17,6 @@ redirect_from:
 * My [[CV](https://rajoy99.github.io/files/joyCV.pdf)] here 
 
 
-My areas of interest are:
-<ul>
-<li>Explainable Machine learning </li>
-<li>Generative Models </li>
-<li>Computer Vision </li>
-<li>Time Series Analysis </li>
-</ul>
-Quite recently, I have been working on my undergraduate thesis on score based generative models for oversampling tabular data.
-
 
 
 
