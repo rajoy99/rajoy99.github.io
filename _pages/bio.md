@@ -24,7 +24,7 @@ Work Experience
 ## SKILLS :
 
 #### LANGUAGES
-<img alt="Python" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/> <img alt="JS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/> <img alt="scala" width="50px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>
+<img alt="Python" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/> <img alt="JS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/> <img alt="scala" width="43px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>
 
  
 #### Back End Web FRAMEWORKS
