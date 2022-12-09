@@ -16,16 +16,16 @@ redirect_from:
 
 * My [[CV](https://rajoy99.github.io/files/joyCV.pdf)] here 
 
-* My research interest lies in the Machine learning explainability, Reinforcement learning, Time Series Analysis and Generative Models. Quite recently, I have been working on my undergraduate thesis on Reinforcement learning for time series anomaly detection.  
-
 
 My areas of interest are:
 <ul>
 <li>Explainable Machine learning </li>
-<li>Time Series Analysis </li>
 <li>Generative Models </li>
-<li>Reinforcement Learning </li>
+<li>Computer Vision </li>
+<li>Time Series Analysis </li>
 </ul>
+Quite recently, I have been working on my undergraduate thesis on score based generative models for oversampling tabular data.
+
 
 
 
