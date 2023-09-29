@@ -11,13 +11,20 @@ redirect_from:
 
 Education
 ======
-* BSc in Computer Science and Engineering, Shahjalal University of Science and Technology,2021(Expected)
+* PhD in Computer Science, University of Illinois Chicago
+* BSc in Computer Science and Engineering, Shahjalal University of Science and Technology
 
 
 Work Experience
 ======
-* <b>Machine Learning Engineer Intern</b> June 2020 - August 2020
-  * Pioneer Alpha
+* <b>Graduate Research Assistant</b> August 2023 - Present
+  * Conducting research under the supervision of Professor Pedram Rooshenas on Physics Informed Neural Networks(PINNs). 
+  * University of Illinois Chicago
+  * Chicago, IL, USA
+
+
+* <b>Junior Software Engineer</b> April 2023 - July 2023
+  * Dynamic Solution Innovators(DSi) 
   * Dhaka, Bangladesh
 
 
