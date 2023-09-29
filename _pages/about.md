@@ -11,7 +11,7 @@ redirect_from:
 
 # About Me
 
-* I'm currently pursuing Bachelors in Computer Science at [Shahjalal University of Science and Technology](https://www.sust.edu/). 
+* I'm currently pursuing my PhD in Computer Science at University of Illinois Chicago. 
 
 
 * My [[CV](https://rajoy99.github.io/files/joyCV.pdf)] here 
