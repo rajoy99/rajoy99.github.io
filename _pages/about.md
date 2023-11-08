@@ -14,7 +14,7 @@ redirect_from:
 * I'm currently pursuing my PhD in Computer Science at University of Illinois Chicago. 
 
 
-* My [[CV](https://rajoy99.github.io/files/Resume_Rafat.pdf)] here 
+* My [[Resume](https://rajoy99.github.io/files/Resume_Rafat.pdf)] here 
 
 
 
