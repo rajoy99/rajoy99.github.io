@@ -15,8 +15,8 @@ main:
   # - title: "Blog Posts"
   #   url: /year-archive/
     
-  - title: "CV"
-    url: /files/joyCV.pdf
+  - title: "Resume"
+    url: /files/Resume_Rafat.pdf
     
   - title: "Contact"
     url: /contact/
