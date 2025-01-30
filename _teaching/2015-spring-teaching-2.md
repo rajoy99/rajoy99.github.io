@@ -1,7 +1,7 @@
 ---
 title: "Teaching experience 2"
 collection: teaching
-type: "Workshop"
+type: "Undergrauate Course"
 permalink: /teaching/2015-spring-teaching-1
 venue: "University of Illinois Chicago"
 
