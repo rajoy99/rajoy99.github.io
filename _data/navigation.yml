@@ -9,14 +9,14 @@ main:
   - title: "Bio"
     url: /bio/    
     
-  # - title: "Portfolio"
-  #   url: /portfolio/
+  - title: "Teaching"
+    url: /teaching/
         
   # - title: "Blog Posts"
   #   url: /year-archive/
     
   - title: "Resume"
-    url: /files/Resume_Rafat.pdf
+    url: /files/Rafat_CV.pdf
     
   - title: "Contact"
     url: /contact/
