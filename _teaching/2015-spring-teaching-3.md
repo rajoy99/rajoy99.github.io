@@ -8,4 +8,4 @@ venue: "University of Illinois Chicago"
 location: "Chicago, Illinois, USA"
 ---
 
-Graduate Teaching Assistant in CS 301 (Languages and Automata)
+Graduate Teaching Assistant in CS 251 (Data Structures)
