@@ -9,63 +9,72 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+```markdown
+## Education
 ======
-* PhD in Computer Science, University of Illinois Chicago
-* BSc in Computer Science and Engineering, Shahjalal University of Science and Technology
 
+* **PhD in Computer Science**, University of Illinois Chicago  
+  * August 2023 – May 2028 (Expected)
+  * GPA: 4.00 / 4.00
+  * Relevant Coursework: Machine Learning on Graphs, Causal Inference, Energy Efficient Deep Learning, Algorithmic Fairness and Responsible AI
 
-Work Experience
+* **BSc in Computer Science and Engineering**, Shahjalal University of Science and Technology
+  * Relevant Coursework: Laplace Transform, Complex Analysis, Analytic Geometry, Calculus, Linear Algebra, Probability and Statistics, Economics, Communication Engineering, Computer Graphics. 
+
+## Research Experience
 ======
-* <b>Graduate Research Assistant</b> August 2023 - Present
-  * Conducting research under the supervision of Professor Pedram Rooshenas on Physics Informed Neural Networks(PINNs). 
-  * University of Illinois Chicago
+
+* **Graduate Research Assistant** — May 2025 – Present  
+  * **University of Illinois Chicago**
+  * Advisor: **Professor Elena Zheleva**
   * Chicago, IL, USA
+  * Developing scalable machine learning methods for causal discovery, causal inference, and learning from incomplete and high-dimensional data.
+  * Developed **TriOpt**, a scalable causal discovery algorithm using causal ordering and Sherman–Morrison rank-one updates, achieving substantial speedups over NOTEARS, GOLEM, and DAGMA on high-dimensional benchmarks.
+  * Developed **SCORE-EM**, a causal discovery framework for missing-at-random data combining MALA-based conditional sampling with score-matching-based causal ordering.
+  * Research on **temporal causal discovery**, relational causal discovery, graph neural networks, and causal learning from complex observational data.
+  * Applied causal discovery methods including NOTEARS, DAGMA, PC, FCI, and GES in interdisciplinary research involving microbiome and digital-phenotyping data.
+
+* **Graduate Research Assistant** — August 2023 – December 2024  
+  * **University of Illinois Chicago**
+  * Advisor: **Professor Pedram Rooshenas**
+  * Chicago, IL, USA
+  * Investigated diffusion models and energy-based generative methods for improving optimization and convergence of **Physics-Informed Neural Networks (PINNs)** for solving partial differential equations.
 
 
-* <b>Junior Software Engineer</b> April 2023 - July 2023
-  * Dynamic Solution Innovators(DSi) 
+## Professional Experience
+======
+
+* **Junior Software Engineer** — April 2023 – July 2023
+  * **Dynamic Solution Innovators (DSi)**
   * Dhaka, Bangladesh
+  * Contributed to backend development of an internet service provider subscription platform using **Ruby on Rails**.
+  * Implemented automated invoice PDF generation using the Prawn and Receipts libraries.
 
 
-## SKILLS :
+## Skills
+======
 
-#### LANGUAGES
-<img alt="Python" width="45px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/> <img alt="JS" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg"/> <img alt="scala" width="43px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>
+### Programming Languages
+Python, C++, Java, SQL
 
- 
-#### Back End Web FRAMEWORKS
-<img alt="Django" width="55px" src="https://static.djangoproject.com/img/logos/django-logo-negative.svg"/> &nbsp; <img alt="Flask" width="55px" src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Flask_logo.svg"/> &nbsp; <img alt="Nodejs" width="60px" src="https://raw.githubusercontent.com/bwks/vendor-icons-svg/master/node-js-logo.svg"/> &nbsp; <img alt="Express" width="60px" src="https://raw.githubusercontent.com/openjs-foundation/artwork/master/projects/express/express-logo-horizontal-black.svg"/>
+### Machine Learning & AI
+PyTorch, PyTorch Geometric, Hugging Face, scikit-learn, NumPy, SciPy, CuPy
 
+### Causal Machine Learning
+DoWhy, EconML, causal-learn, gCastle, CausalNex
 
-#### Front End Web FRAMEWORKS
-<img alt="React" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg"/>
+### Generative AI & LLMs
+Diffusion Models, Variational Autoencoders (VAEs), GANs, Retrieval-Augmented Generation (RAG), Embeddings, Vector Databases, LLM Quantization
 
+### Research Areas
+Causal Inference, Causal Discovery, Graph Neural Networks, Deep Generative Models, Time-Series Modeling, Physics-Informed Machine Learning
 
-#### ML/DL LIBRARIES
-<img alt="Sklearn" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg"/> <img alt="Django" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/2/2d/Tensorflow_logo.svg"/> <img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Keras_logo.svg"/> <img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/c/cc/CatBoostLogo.png"/> <img alt="Django" width="50px" src="https://raw.githubusercontent.com/dmlc/dmlc.github.io/master/img/logo-m/xgboost.png"/> <img alt="Django" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg"/>
-
-
-
-#### DATABASES
-<img alt="MySQL" width="50px" src="https://upload.wikimedia.org/wikipedia/de/d/dd/MySQL_logo.svg"/>    &nbsp;&nbsp;&nbsp;  <img alt="MongoDB" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg"/>
-
-
-#### TOOLS
-<img alt="Git" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"/> <img alt="GitHub" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/github.svg"/> <img alt="GNU Bash" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gnubash.svg"/> <img alt="Jupyter" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/jupyter.svg"/> <img alt="VSCode" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/visualstudiocode.svg"/> <img alt="Heroku" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/heroku.svg"/> <img alt="Ubuntu" width="30px" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/ubuntu.svg"/>
+### Systems & Compute
+Linux, Git, Docker, SLURM/HPC, Google Cloud Platform (GCP), Distributed Training (DDP/FSDP)
 
 
 
-
-
-
-
-
-
-
-
-
-Online Certificates
+Online Course Certificates
 =====
   * [Machine Learning with Python-From Linear Models to Deep Learning,](https://courses.edx.org/certificates/a0aaaeecae9a4ec4876d4d32af1b714a) MITx
   * [Neural Networks and Deep Learning,](https://www.coursera.org/account/accomplishments/verify/9BAFSYQ8BKR6) Deeplearning.ai

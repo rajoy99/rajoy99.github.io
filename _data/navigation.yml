@@ -8,13 +8,7 @@ main:
 
   - title: "Bio"
     url: /bio/    
-    
-  - title: "Teaching"
-    url: /teaching/
         
-  # - title: "Blog Posts"
-  #   url: /year-archive/
-    
   - title: "Resume"
     url: /files/Rafat_CV.pdf
     
